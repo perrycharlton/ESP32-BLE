@@ -43,7 +43,7 @@ int bleStartIn = 20; //120;
 // Time Ble scan is on
 int scanTime = 5; //In seconds
 
-const char *esp32Ver = "V 1.14.1";
+const char *esp32Ver = "V 1.14.2";
 const char *topicIn = "thermo/out"; // Change for your own topic
 const char *subTopic = "thermo/in/#";
 

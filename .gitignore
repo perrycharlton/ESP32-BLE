@@ -5,3 +5,6 @@
 .vscode/ipch
 /test
 /secrets
+core
+.travis.yml
+.vscode
