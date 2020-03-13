@@ -23,7 +23,7 @@ extern "C"
 #include <string>
 #include <esp_system.h>
 
-#include "credentials.h"
+#include "../secrets/credentials.h"
 
 WiFiClient espClient;
 AsyncMqttClient mqttClient;
